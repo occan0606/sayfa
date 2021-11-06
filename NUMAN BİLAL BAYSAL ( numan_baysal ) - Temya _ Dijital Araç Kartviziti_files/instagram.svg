@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="470" height="470" viewBox="0 0 470 470">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d0d0d0;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1090" y="476" width="639" height="639" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="9.11"/>
+      <feFlood result="flood" flood-opacity="0.05"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="1174.44" y="560" width="469.56" height="470" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDY5LjU2IiBoZWlnaHQ9IjQ3MCIgdmlld0JveD0iMCAwIDQ2OS41NiA0NzAiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMzkzLjI5IiB5MT0iNDcwIiB4Mj0iNzYuMjciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSItMC4wNTUiIHN0b3AtY29sb3I9IiNkYzI0MzAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjA1NSIgc3RvcC1jb2xvcj0iIzdiNDM5NyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNDY5LjU2IiBoZWlnaHQ9IjQ3MCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <g id="Instagram">
+    <path id="Instagram-2" data-name="Instagram" class="cls-1" d="M1297.44,560H1521a123,123,0,0,1,123,123V907a123,123,0,0,1-123,123H1297.44a123,123,0,0,1-123-123V683A123,123,0,0,1,1297.44,560ZM1465.9,944.216H1352.52a92.8,92.8,0,0,1-92.92-92.679V738.457a92.8,92.8,0,0,1,92.92-92.679H1465.9a92.8,92.8,0,0,1,92.92,92.679v113.08A92.8,92.8,0,0,1,1465.9,944.216Zm65.45-204.593a67.118,67.118,0,0,0-67.2-67.032H1353.69a67.12,67.12,0,0,0-67.21,67.032V849.788a67.12,67.12,0,0,0,67.21,67.032h110.46a67.118,67.118,0,0,0,67.2-67.032V739.623Zm-41.49-15.155a9.909,9.909,0,1,1,9.93-9.909A9.925,9.925,0,0,1,1489.86,724.468ZM1409.5,870.189a74.9,74.9,0,1,1,75.1-74.9A75,75,0,0,1,1409.5,870.189Zm-0.58-122.406a46.923,46.923,0,1,0,47.04,46.923A46.99,46.99,0,0,0,1408.92,747.783Z" transform="translate(-1174 -560)"/>
+  </g>
+</svg>
