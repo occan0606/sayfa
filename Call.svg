@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="470" height="470" viewBox="0 0 470 470">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d0d0d0;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="70" y="812" width="469.563" height="470" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="70" y="812" width="469.563" height="470" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDY5LjU2MyIgaGVpZ2h0PSI0NzAiIHZpZXdCb3g9IjAgMCA0NjkuNTYzIDQ3MCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIzOTMuMjkxIiB5MT0iNDcwIiB4Mj0iNzYuMjcyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLTAuMjUiIHN0b3AtY29sb3I9IiMyZTc0MWEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxLjI1IiBzdG9wLWNvbG9yPSIjMzdmODNlIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI0NjkuNTYzIiBoZWlnaHQ9IjQ3MCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Call">
+    <path id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-1" d="M193,812H416.551a123,123,0,0,1,123,123v224a123,123,0,0,1-123,123H193A123,123,0,0,1,70,1159V935A123,123,0,0,1,193,812Zm146.065,357.78c57.578,22.28,79.471,5.01,86.992-8.39s6.568-12.01,11-18.86c2.9-4.47,1.963-11.67-1.572-14.66s-50.433-34.21-57.122-38.25-10.954-3.5-14.673.53c-3.656,3.96-14.685,18.37-17.817,22.52s-9.865,6.15-17.294,2.1c-13.3-7.26-66-42.65-92.756-94.82-2.169-4.23-3.095-8.2,7.861-16.77s7.317-5.626,15.721-12.047c7.7-5.882,7.134-11.14,4.193-15.717s-33.562-50.542-37.732-57.1c-3.525-5.547-11.75-5.6-15.2-3.667-3.879,2.17-18.459,10.939-26.2,15.716-7.324,4.519-19.025,23.765-11,56.58,5.294,35.148,38.666,79.508,75.462,116.3S313.88,1160.03,339.065,1169.78Z" transform="translate(-70 -812)"/>
+  </g>
+</svg>
